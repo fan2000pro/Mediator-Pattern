@@ -1,0 +1,14 @@
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Mediator.exe
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Mediator.deps.json
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Mediator.runtimeconfig.json
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Mediator.dll
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Mediator.pdb
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Mediator.AssemblyInfo.cs
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Mediator.dll
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Mediator.dll
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Mediator.pdb
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Mediator.genruntimeconfig.cache
+C:\Users\kulikovia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Mediator.dll
